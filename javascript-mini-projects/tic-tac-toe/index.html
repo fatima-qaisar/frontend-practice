@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Coiny&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic-Tac-Toe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+    <div class="msg-container hide">
+        <p id="message">Winner</p>
+        <button id="new-game-btn" class="gamebtn">New Game</button>
+    </div>  
+    <h1 class="coiny-regular">TIC-TAC-TOE</h1>
+    <div id="container">
+    <div id="game-board-wrapper">
+    <div id="game-board">
+         <button class="cell corner-cell-1"></button>
+         <button class="cell"></button>
+         <button class="cell corner-cell-3"></button>
+         <button class="cell"></button>
+         <button class="cell"></button>
+         <button class="cell"></button>
+         <button class="cell corner-cell-7"></button>
+         <button class="cell"></button>
+         <button class="cell corner-cell-9"></button>
+    </div>
+    <canvas id="line-canvas"></canvas>
+    </div>
+    </div>
+    <div class="button-container">
+    <button id="reset-btn" class="gamebtn">Reset Game</button>
+    </div>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
