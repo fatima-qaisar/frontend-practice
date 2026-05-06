@@ -48,7 +48,7 @@
     const btn = document.querySelector("#btn");
 
   
-/*
+
     const getFacts = async () => {
         console.log("Fetching data...");
         let response = await fetch(url); // it will wait for the fetch request to complete and return the response object
@@ -58,8 +58,9 @@
         let data = await response.json();
         console.log(data[0]); // it will return the data which is usable data now
         catImg.innerHTML = `<img src="${data[0].url}" alt="cat image">`; // it will display the cat image on the page
+        btn.disabled=false
     };
-*/
+    /*
     function getFacts() {
         fetch(url)
         .then(response => {
@@ -73,6 +74,7 @@
             console.log("Error fetching data:", error);
         });
     }
+    */
 //both work but using async await is cleaner
 
  btn.addEventListener("click", getFacts);
