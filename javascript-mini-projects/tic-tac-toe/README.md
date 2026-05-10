@@ -4,7 +4,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://fatima-qaisar.github.io/tic-tac-toe/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://tic-tac-toe-game-57.vercel.app/)
 
 A responsive and interactive Tic-Tac-Toe game built using **HTML, CSS, and JavaScript**, featuring dynamic gameplay, win/draw detection, and an animated winning line using the HTML5 Canvas.
 
