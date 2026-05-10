@@ -1,13 +1,11 @@
 # 💱 Currency Converter
 
-![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript\&logoColor=black)
-![API](https://img.shields.io/badge/API-Currency%20Exchange-green)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-purple?style=for-the-badge\&logo=vercel)](https://currency-converter-mini-project.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://currency-converter-mini-project.vercel.app/)
+
 
 A simple and responsive **Currency Converter Web App** built using **HTML, CSS, and JavaScript**.
 It fetches real-time exchange rates using the **Currency API** and dynamically updates country flags based on selected currencies. 
