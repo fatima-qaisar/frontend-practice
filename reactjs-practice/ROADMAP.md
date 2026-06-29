@@ -15,7 +15,7 @@
  - State -> managed by JS, UI -> DOM
  - there should be a way for the JS state and the DOM to talk to each other - must sync - react started here 
  - Dan Abramov - a member of the react core team - created redux (state management library) 
- - Later react was mmade open source - Khan Academy adopted it first then Unsplash did too
+ - Later react was made open source - Khan Academy adopted it first then Unsplash did too
 
 ## Learning Process
  - In-depth -> Babel, fibre, Virtual DOM, diff algorithm, hydration, tree shaking -> then make projects
