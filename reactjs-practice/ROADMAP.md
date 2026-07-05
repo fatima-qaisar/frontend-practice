@@ -1,7 +1,7 @@
 # React JS Roadmap
 
 ## Why to learn React?
- - hype, job, trend , build UI (JQuery, JS, CSS libraries - why react?)
+ - trendy, build UI (JQuery, JS, CSS libraries - why react?)
  - React makes it easy to manage and build complex frontend (e.g clicking a button changes lots of things)
  
  Simple page -> react is overkill - because at the end react will be compiled into a html, css, js page which is what the browser understands.
@@ -43,5 +43,8 @@
     -> no SEO, browser render of JS -> browser generates html and css (can become slow), no routing
  - Framework -> Next JS, Gatsby, Remix -> Next JS allows you to write backend and frontend in the same framework
  - Just get to backend
+
+ ## React Documentation
+ - https://react.dev/learn
 
 
