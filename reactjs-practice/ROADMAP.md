@@ -25,7 +25,7 @@
  - framework (focuses on rules) vs library (more freedom)
 
 ## Topics to Learn
- - core of React (State or UI manipulation, JSX (we write HTML in JS)) 
+ - core of React (State or UI manipulation, JSX - JavaScript XML (we write HTML in JS)) 
  - component reusability -> was being done in PHP as well but its easier to do it in react
  - Reusing component (props) 
  - How to propagate change (hooks) -> ui mai changes reflect krne keliye -> ee.g. useState/useEffect/useMemo etc.
