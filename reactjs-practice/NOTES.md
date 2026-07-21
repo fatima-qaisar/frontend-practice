@@ -47,4 +47,23 @@ JavaScript
   - Comes with npm.
   - Lets you run a package without installing it globally.
   - Useful for one-time commands.
-  
+
+CRA(create-react-app) - bulky utility -> deprecated -> frameworks/build tools used now mostly
+package.json -> main file to understand how the react project is structured
+
+HMR (Hot Module Replacement) is a development feature that lets you update parts of your application without reloading the entire page. Instead of refreshing the page after every change, you simply save the file, and the development server automatically updates only the affected module(s), making development faster and often preserving the application's state.
+
+creating a project using vite : `npm create vite@latest`
+## package.json Scripts
+
+- `npm run dev` or just `npm dev`
+  - Starts the Vite development server with Hot Module Replacement (HMR).
+
+- `npm run build`
+  - Creates an optimized production build in the `dist/` folder. (dist -> distribution)
+
+- `npm run preview`
+  - Serves the production build locally to test it before deployment.
+
+- `npm run lint`
+  - Runs ESLint to check for code quality issues and potential bugs.
