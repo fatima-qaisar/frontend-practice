@@ -53,7 +53,7 @@ package.json -> main file to understand how the react project is structured
 
 HMR (Hot Module Replacement) is a development feature that lets you update parts of your application without reloading the entire page. Instead of refreshing the page after every change, you simply save the file, and the development server automatically updates only the affected module(s), making development faster and often preserving the application's state.
 
-creating a project using vite : `npm create vite@latest`
+creating a project using vite : `npm create vite@latest` or `npm create vite` (modern npm versions use the latest version by default)
 ## package.json Scripts
 
 - `npm run dev` or just `npm dev`
