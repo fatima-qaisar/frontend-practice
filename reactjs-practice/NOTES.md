@@ -9,6 +9,7 @@
 - A JavaScript library for creating and rendering 3D graphics using WebGL.
 - Used for 3D models, games, animations, simulations, and interactive visualizations.
 
+```
 JavaScript
     └──► React (Core Library)
         - Components
@@ -32,7 +33,7 @@ JavaScript
                 └──► Three.js
                         └──► WebGL
                                └──► 3D Graphics & Animations
-
+```
 ## npm (Node Package Manager)
   - Installed automatically with Node.js.
   - Lets you install and manage JavaScript packages (libraries, frameworks, tools).
